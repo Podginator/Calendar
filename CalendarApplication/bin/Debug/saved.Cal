@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAppointment xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Appointment>
+    <Subject>test</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-04-10T04:00:00</Start>
+    <Length>30</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>test</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-04-10T04:00:00</Start>
+    <Length>30</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>test</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-04-11T03:30:00</Start>
+    <Length>30</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>sell</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-04-11T03:30:00</Start>
+    <Length>60</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>new</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-04-11T04:00:00</Start>
+    <Length>60</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>One last 80 proof</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-04-11T03:00:00</Start>
+    <Length>30</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>Testing Notification part Deux</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-04-10T14:00:00</Start>
+    <Length>30</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>f</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-07-23T00:00:00</Start>
+    <Length>420</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>Anything</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-07-26T19:00:00+01:00</Start>
+    <Length>90</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>Nothing</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-07-26T19:00:00+01:00</Start>
+    <Length>30</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>Something</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-07-26T18:30:00+01:00</Start>
+    <Length>120</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>rr</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-08-20T16:00:00+01:00</Start>
+    <Length>30</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>rrrr</Subject>
+    <Location>G4</Location>
+    <Type>Interview</Type>
+    <Start>2014-08-20T15:30:00+01:00</Start>
+    <Length>120</Length>
+  </Appointment>
+  <Appointment>
+    <Subject>432</Subject>
+    <Location />
+    <Type>Other</Type>
+    <Start>2014-08-20T15:30:00+01:00</Start>
+    <Length>150</Length>
+  </Appointment>
+</ArrayOfAppointment>
